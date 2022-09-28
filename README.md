@@ -1,9 +1,10 @@
+[![@architrixs's Holopin board](https://holopin.io/api/user/board?user=architrixs)](https://holopin.io/@architrixs)
 <h3 align="center">Hello there, I'm Architrixs 👋</h3>
 <br>
 <p align="center">
   Software Engineer & Knowledge Seeker
   <br>
-  📚 I’m currently learning Django, Angular, MongoDB
+  📚 I’m currently working with Angular, ASP.Net 5
   <br>
   💬 Ask me about anything<a href="https://github.com/Architrixs/Architrixs/issues" title="Issues"> Here</a>
   <br>
